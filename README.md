@@ -36,3 +36,7 @@ Runs tests in console, in browser or with coverage.
 ### `lint`, `prettier`
 
 Runs linting and formatting for all files in `src` folder.
+
+
+CloudFront distribution - https://d2fiqdxs2fewr8.cloudfront.net/
+S3-website - http://cdkstack-frontendbucketefe2e19c-hixym0tnnhvj.s3-website.eu-north-1.amazonaws.com/
